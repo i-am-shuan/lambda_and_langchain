@@ -22,9 +22,8 @@ lambda에서 단일 layer 업로드 시, 50mb 용량 제한이 있다.
 - Code examples - Bedrock Runtime
   - https://docs.aws.amazon.com/bedrock/latest/userguide/service_code_examples_bedrock-runtime.html
 
-- Bedrock+LangChain
+- Langchain (Part 2 - LangChain integration)
   - https://github.com/aws-samples/amazon-bedrock-workshop/blob/main/02_KnowledgeBases_and_RAG/2_Langchain-rag-retrieve-api-mistral-and-claude-v2.ipynb
-  - https://github.com/aws-samples/amazon-bedrock-workshop/blob/main/02_KnowledgeBases_and_RAG/3_Langchain-rag-retrieve-api-claude-3.ipynb
 
-- Bedrock Workshop
+- LangChain + AWS Lambda = Serverless Q&A Chatbot
   - https://github.com/aws-samples/generative-ai-demo-using-amazon-sagemaker-jumpstart-kr/tree/main/blogs/multi-rag-and-multi-region-llm-for-chatbot
