@@ -18,5 +18,12 @@ lambda에서 단일 layer 업로드 시, 50mb 용량 제한이 있다.
 
 ---
 
-#### ✅ AWS GenAI Samples
-- https://github.com/aws-samples/generative-ai-demo-using-amazon-sagemaker-jumpstart-kr/tree/main/blogs/multi-rag-and-multi-region-llm-for-chatbot
+#### ✅ AWS Samples
+- LangChain
+  - https://github.com/aws-samples/amazon-bedrock-workshop/blob/main/02_KnowledgeBases_and_RAG/2_Langchain-rag-retrieve-api-mistral-and-claude-v2.ipynb
+ 
+- invoke model
+  - https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html
+
+- GenAI
+  - https://github.com/aws-samples/generative-ai-demo-using-amazon-sagemaker-jumpstart-kr/tree/main/blogs/multi-rag-and-multi-region-llm-for-chatbot
